@@ -82,7 +82,7 @@ library
                      , safe-exceptions
                      , stm
                      , text
-                     , text-format
+                     , formatting
                      , transformers
                      , type-operators
                      , unordered-containers
